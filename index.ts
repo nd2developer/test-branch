@@ -1,1 +1,1 @@
-console.log("hello world");
+console.log(" RICKY STAR THICH DUT DEET KHAI NGHIEN");
